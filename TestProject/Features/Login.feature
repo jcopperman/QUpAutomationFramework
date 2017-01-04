@@ -15,7 +15,7 @@ Scenario: Check Login with correct username and password
 	Then I should see the username
 
 @smoke @negative
-Scenario: Check Login with correct username and password
+Scenario: Check Login with incorrect username and password
 	Given I have navigated to the application
 	And I see the homepage
 	Then I click login
