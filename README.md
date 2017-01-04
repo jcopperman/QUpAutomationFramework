@@ -6,6 +6,5 @@ This framework supports SpecFlow, the BDD syntax documentation tool for .Net.
 A sample test project is included to demonstrate the use of the framework. 
 
 TODOS:
-Add a IJavascriptExecutor helper for console related tests
-Add a screenshot helper for taking screenshots on failure
-Add support for headless browser automation
+Add a IJavascriptExecutor helper for console related tests, a screenshot helper for taking screenshots on failure
+and support for headless browser automation
