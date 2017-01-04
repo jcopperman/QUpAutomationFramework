@@ -7,10 +7,8 @@
     <IsLog>Y</IsLog>
     <LogPath>C:\\TestLogs\\</LogPath>
     <BuildName>DemoBuild</BuildName>
-    <!-- Possible Flag Y, N -->
     <IsReport>N</IsReport>
     <UserName></UserName>
-    <!-- Possible flag Selenium, Specflow  -->
     <Technology>Selenium</Technology>
   </RunSettings>
 </QUp.Framework>
