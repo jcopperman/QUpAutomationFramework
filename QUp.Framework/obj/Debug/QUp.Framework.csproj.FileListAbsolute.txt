@@ -1,14 +1,13 @@
+C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\QUp.Framework.dll.config
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\QUp.Framework.dll
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\QUp.Framework.pdb
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\Excel.dll
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\TechTalk.SpecFlow.dll
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\WebDriver.dll
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\WebDriver.Support.dll
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\Excel.pdb
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\WebDriver.xml
 C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\WebDriver.Support.xml
-C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.csprojResolveAssemblyReference.cache
 C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.dll
 C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.pdb
-C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\QUp.Framework.dll.config
-C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\TechTalk.SpecFlow.dll

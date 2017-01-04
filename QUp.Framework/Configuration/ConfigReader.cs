@@ -19,7 +19,7 @@ namespace QUp.Framework.Config
             XPathItem buildname;
             XPathItem logPath;
 
-            string strFilename = Environment.CurrentDirectory.ToString() + "\\Configuration\\GlobalConfig.xml";
+            string strFilename = /*Environment.CurrentDirectory.ToString() + */"C:\\Dev\\QUp.Framework\\QUp.Framework\\Configuration\\GlobalConfig.xml";
             FileStream stream = new FileStream(strFilename, FileMode.Open);
             XPathDocument document = new XPathDocument(stream);
             XPathNavigator navigator = document.CreateNavigator();

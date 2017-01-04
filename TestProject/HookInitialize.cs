@@ -3,12 +3,13 @@ using TechTalk.SpecFlow;
 
 namespace TestProject
 {
+    [Binding]
     public class HookInitialize : TestInitializeHook
     {
-        public HookInitialize() : base(BrowserType.FireFox)
+        public HookInitialize() : base(BrowserType.Chrome)
         {
             InitializeSettings();
-            //NaviateSite();
+            NavigateSite();
         }
 
         [BeforeFeature]
