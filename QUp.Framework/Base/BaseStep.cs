@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using QUp.Framework.Config;
+using QUp.Framework.Helpers;
 
 namespace QUp.Framework.Base
 {
-    class BaseStep
+    /// <summary>
+    /// BaseStep class for Specflow step definition inheritance
+    /// </summary>
+    public abstract class BaseStep : Base
     {
+        public virtual void NavigateSite()
+        {
+            DriverContext.Browser.GoToUrl(Settings.Environment);
+            LogHelpers.Write("Opened the browser");
+        }
     }
 }

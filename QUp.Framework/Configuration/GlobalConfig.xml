@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<QUp.Framework>
+  <RunSettings>
+    <Environment>http://google.com</Environment>
+    <Browser>Firefox</Browser>
+    <TestType>SmokeTest</TestType>
+    <IsLog>Y</IsLog>
+    <LogPath>C:\\TestLogs\\</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <!-- Possible Flag Y, N -->
+    <IsReport>N</IsReport>
+    <UserName></UserName>
+    <!-- Possible flag Selenium, Specflow  -->
+    <Technology>Selenium</Technology>
+  </RunSettings>
+</QUp.Framework>

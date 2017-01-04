@@ -128,7 +128,6 @@ namespace QUp.Framework.Helpers
 
     }
 
-
     public class TableDatacollection
     {
         public int RowNumber { get; set; }

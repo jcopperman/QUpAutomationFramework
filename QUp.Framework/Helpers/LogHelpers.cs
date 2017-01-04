@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QUp.Framework.Config;
+using System;
 using System.IO;
 
 namespace QUp.Framework.Helpers
@@ -11,7 +12,7 @@ namespace QUp.Framework.Helpers
         //Create log file 
         public static void CreateLogFile()
         {
-            string dir = @"C:\Dev\QUp.Automation.Framework\";
+            string dir = Settings.LogPath;
             if(Directory.Exists(dir))
             {
                 _streamw = File.AppendText(dir + _logFileName + ".log");
