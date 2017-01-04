@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <QUp.Framework>
   <RunSettings>
-    <Environment>http://google.com</Environment>
+    <Environment>http://systemundertest.azurewebsites.net/</Environment>
     <Browser>Firefox</Browser>
     <TestType>SmokeTest</TestType>
     <IsLog>Y</IsLog>

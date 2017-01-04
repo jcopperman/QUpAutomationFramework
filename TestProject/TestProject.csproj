@@ -88,7 +88,9 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QUp.Framework\QUp.Framework.csproj">
       <Project>{E9BEC865-15B8-47A7-BDBB-203EB892CE1E}</Project>

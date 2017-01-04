@@ -10,3 +10,5 @@ C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\WebDriver.Support.xml
 C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.csprojResolveAssemblyReference.cache
 C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.dll
 C:\Dev\QUp.Framework\QUp.Framework\obj\Debug\QUp.Framework.pdb
+C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\QUp.Framework.dll.config
+C:\Dev\QUp.Framework\QUp.Framework\bin\Debug\TechTalk.SpecFlow.dll
