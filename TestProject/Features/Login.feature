@@ -23,4 +23,4 @@ Scenario: Check Login with incorrect username and password
 	| UserName | Password |
 	| falseusername    | falsepassword |
 	Then I click login button
-	Then I should see the username
+	Then I should see a login error
