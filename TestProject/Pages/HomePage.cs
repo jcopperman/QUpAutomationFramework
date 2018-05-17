@@ -39,6 +39,7 @@ namespace TestProject.Pages
             return lnkLoggedInUser.GetLinkText();
         }
 
+        //I am a change
         public EmployeeListPage ClickEmployeeList()
         {
             lnkEmployeeList.Click();
