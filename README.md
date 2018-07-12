@@ -1,12 +1,23 @@
-# QUp Test Automation Framework
-A Selenium test automation framework that implements the Page Object Model pattern, with extra helpers for reading data from spreadsheets, a logger, html table reader, reporting and webservice helper. Uses global configuration so be sure to update the GlobalConfig.xml file (soon to be moved to JSON instead) with your SUT's relevant parameters.
+# Initial page
 
-This framework supports SpecFlow, the BDD syntax documentation tool for .Net. 
+## Getting Super Powers
 
-A sample test project is included to demonstrate the use of the framework. The sample test project includes Pickles, a living documentation tool that works well with SpecFlow. To use Pickles you will need to specify a few parameters:
+Becoming a super hero is a fairly straight forward process:
 
-![alt tag](https://github.com/jcopperman/QUpAutomationFramework/blob/master/TestProject/Screenshots/PicklesDhtml.PNG?raw=true)
+```
+$ give me super-powers
+```
 
-TODOS:
-Add a IJavascriptExecutor helper for console related tests, a screenshot helper for taking screenshots on failure
-and support for headless browser automation
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
